@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Modules/RCTUIManager.m \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Layout/Layout.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Modules/RCTAccessibilityManager.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTRootShadowView.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTRootViewInternal.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/RCTView.h \
+  /Users/lichuanjun/Documents/projects/git/github/leechuanjun/TLRNProject/node_modules/react-native/React/Views/UIView+React.h
